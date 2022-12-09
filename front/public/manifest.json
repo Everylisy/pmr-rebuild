@@ -1,0 +1,26 @@
+{
+  "short_name": "PMR",
+  "name": "Pill My Rhythm",
+  "icons": [
+    {
+      "src": "badge-72x72.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#7fdcdc",
+  "background_color": "#92e0df"
+}
